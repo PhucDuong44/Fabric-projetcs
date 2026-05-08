@@ -1,0 +1,16 @@
+[
+  {
+    "symbol": "BTCUSDT",
+    "price": 65432.1,
+    "timestamp": "2026-05-08T10:00:00.000Z",
+    "category": "Majorcoin",
+    "processed_at": "2026-05-08T10:05:12.000Z"
+  },
+  {
+    "symbol": "ETHUSDT",
+    "price": 3456.78,
+    "timestamp": "2026-05-08T10:00:00.000Z",
+    "category": "Majorcoin",
+    "processed_at": "2026-05-08T10:05:12.000Z"
+  }
+]
